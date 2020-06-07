@@ -2,8 +2,9 @@ super dosya içeriği
 2. satır
 3. satır
 4. satır
-5. satır
+5. satır feature eklendi
 6. satır
 7. satır remote/master değişti.
 8. satır remote
 9. satır
+10. satır feature eklendi
