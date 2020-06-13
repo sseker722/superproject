@@ -7,3 +7,5 @@ super dosya içeriği
 7. satır remote/master değişti.
 8. satır remote
 9. satır
+10. satır eklendi
+
